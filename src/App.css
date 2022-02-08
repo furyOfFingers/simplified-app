@@ -10,3 +10,13 @@ a {
   text-decoration: unset;
   color: black;
 }
+.color {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.color div {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+}
